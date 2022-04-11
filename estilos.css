@@ -124,7 +124,7 @@ h3{
 .subtitulo2{
     color: #8e2424;
     display: flex;
-    background: rgb(255,255,255);
+    background: rgb(210, 205, 205);
     width: 100px;
     height: 30px;
     text-align: center;
@@ -145,7 +145,8 @@ h3{
 .paragrafo2{
     display: flex;
     justify-content: space-around;
-    font-size: 40px;
+    font-size: 25px;
+    color: #667085;
 }
 
 .imagem{
