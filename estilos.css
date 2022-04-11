@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+main{
+    background-color: rgb(224, 216, 209);
+}
+
+header{
+    margin: 0 auto;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo{
+    width: 20px;
+}
+
+ul li{
+    list-style: none;
+    margin: 0 10px;
+    display: inline-block;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #667085;
+}
+
+.botao{
+    text-decoration: none;
+}
+
+.botao1{
+    color: #667085;
+}
+
+.botao2{
+    color: white;
+    background: #8e2424;
+    border: 1px solid #8e2424;
+    border-radius: 5px;
+    padding: 10px;
+}
